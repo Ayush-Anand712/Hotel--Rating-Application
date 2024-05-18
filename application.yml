@@ -1,6 +1,6 @@
 spring:
   application: 
-    name: Config-GIT-SERVICE
+    name: Config-default-SERVICE
 eureka:
   instance:
     prefer-ip-address: true
